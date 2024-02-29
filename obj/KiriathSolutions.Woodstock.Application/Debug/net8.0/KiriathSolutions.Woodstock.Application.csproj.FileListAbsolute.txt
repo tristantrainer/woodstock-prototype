@@ -1,0 +1,13 @@
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.deps.json
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.dll
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.pdb
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.csproj.AssemblyReference.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.AssemblyInfoInputs.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.AssemblyInfo.cs
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.csproj.CoreCompileInputs.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\refint\KiriathSolutions.Woodstock.Application.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.pdb
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\ref\KiriathSolutions.Woodstock.Application.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Application\Debug\net8.0\KiriathSolutions.Woodstock.Application.csproj.CopyComplete

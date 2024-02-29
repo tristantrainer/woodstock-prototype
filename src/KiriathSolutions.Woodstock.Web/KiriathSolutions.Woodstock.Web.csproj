@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HotChocolate.Data" Version="13.8.1" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="HotChocolate" Version="13.7.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="13.7.0" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KiriathSolutions.Woodstock.Contracts\KiriathSolutions.Woodstock.Contracts.csproj" />
+    <ProjectReference Include="..\KiriathSolutions.Woodstock.Infrastructure\KiriathSolutions.Woodstock.Infrastructure.csproj" />
+    <ProjectReference Include="..\KiriathSolutions.Woodstock.Application\KiriathSolutions.Woodstock.Application.csproj" />
+  </ItemGroup>
+
+</Project>

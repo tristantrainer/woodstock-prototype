@@ -1,0 +1,11 @@
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.deps.json
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.dll
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.pdb
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.AssemblyInfoInputs.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.AssemblyInfo.cs
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.csproj.CoreCompileInputs.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\refint\KiriathSolutions.Woodstock.Domain.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\KiriathSolutions.Woodstock.Domain.pdb
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Domain\Debug\net8.0\ref\KiriathSolutions.Woodstock.Domain.dll

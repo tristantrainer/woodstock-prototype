@@ -1,0 +1,6 @@
+@KiriathSolutions.Woodstock.Web_HostAddress = http://localhost:5277
+
+GET {{KiriathSolutions.Woodstock.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

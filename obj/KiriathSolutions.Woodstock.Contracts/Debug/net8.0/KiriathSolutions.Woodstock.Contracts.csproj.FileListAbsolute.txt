@@ -1,0 +1,11 @@
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.deps.json
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.dll
+C:\Users\trist\Projects\Peanuts\woodstock\bin\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.pdb
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.AssemblyInfoInputs.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.AssemblyInfo.cs
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\refint\KiriathSolutions.Woodstock.Contracts.dll
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\KiriathSolutions.Woodstock.Contracts.pdb
+C:\Users\trist\Projects\Peanuts\woodstock\obj\KiriathSolutions.Woodstock.Contracts\Debug\net8.0\ref\KiriathSolutions.Woodstock.Contracts.dll
