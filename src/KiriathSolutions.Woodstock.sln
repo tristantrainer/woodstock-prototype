@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Woodstock.Application", "KiriathSolutions.Woodstock.Application\KiriathSolutions.Woodstock.Application.csproj", "{EC38E5DF-97E1-4AE2-87F8-318B64207E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Woodstock.Contracts", "KiriathSolutions.Woodstock.Contracts\KiriathSolutions.Woodstock.Contracts.csproj", "{C10B68B6-3D3B-4428-ACCF-ECCB2BBAF2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Woodstock.Domain", "KiriathSolutions.Woodstock.Domain\KiriathSolutions.Woodstock.Domain.csproj", "{B52B1DA9-B582-4718-BFA0-C332804FB6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Woodstock.Infrastructure", "KiriathSolutions.Woodstock.Infrastructure\KiriathSolutions.Woodstock.Infrastructure.csproj", "{3562FC63-90F1-47F7-BE74-2553E2855D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiriathSolutions.Woodstock.Web", "KiriathSolutions.Woodstock.Web\KiriathSolutions.Woodstock.Web.csproj", "{9E902411-8DA5-4BC4-A8C7-E788E555B0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC38E5DF-97E1-4AE2-87F8-318B64207E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC38E5DF-97E1-4AE2-87F8-318B64207E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC38E5DF-97E1-4AE2-87F8-318B64207E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC38E5DF-97E1-4AE2-87F8-318B64207E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10B68B6-3D3B-4428-ACCF-ECCB2BBAF2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10B68B6-3D3B-4428-ACCF-ECCB2BBAF2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10B68B6-3D3B-4428-ACCF-ECCB2BBAF2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10B68B6-3D3B-4428-ACCF-ECCB2BBAF2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52B1DA9-B582-4718-BFA0-C332804FB6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52B1DA9-B582-4718-BFA0-C332804FB6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52B1DA9-B582-4718-BFA0-C332804FB6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52B1DA9-B582-4718-BFA0-C332804FB6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3562FC63-90F1-47F7-BE74-2553E2855D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3562FC63-90F1-47F7-BE74-2553E2855D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3562FC63-90F1-47F7-BE74-2553E2855D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3562FC63-90F1-47F7-BE74-2553E2855D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E902411-8DA5-4BC4-A8C7-E788E555B0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E902411-8DA5-4BC4-A8C7-E788E555B0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E902411-8DA5-4BC4-A8C7-E788E555B0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E902411-8DA5-4BC4-A8C7-E788E555B0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
